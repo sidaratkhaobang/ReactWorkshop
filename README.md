@@ -2,7 +2,6 @@
 
 Basic React App 
 
-
-![Alt Text](https://i.postimg.cc/cJqh3bhK/ezgif-com-video-to-gif.gif)
+[![ezgif-com-video-to-gif.gif](https://i.postimg.cc/cJqh3bhK/ezgif-com-video-to-gif.gif)](https://postimg.cc/87HLQwqD)
 
 :pig:
