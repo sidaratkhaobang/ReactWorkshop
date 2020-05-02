@@ -1,0 +1,29 @@
+img{
+    width: 100%;
+    display: block;
+    min-height: 10rem;
+}
+.ShopList{
+    width: 70vw;
+    max-width: 1170px;
+    margin: 0 auto;
+    padding: 2rem 0;
+}
+.shop{
+    margin: 2rem 0;
+}
+.close-btn{
+    position: absolute;
+    display: block;
+    top: 1%;
+    right: 2%;
+    font-size: 2rem;
+    opacity: 0;
+    cursor: pointer;
+}
+.img-container{
+    position: relative;
+}
+.img-container:hover .close-btn{
+    opacity: 1;
+}
